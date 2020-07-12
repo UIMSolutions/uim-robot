@@ -1,0 +1,15 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/uim-robot
+uim-robot.so
+uim-robot.dylib
+uim-robot.dll
+uim-robot.a
+uim-robot.lib
+uim-robot-test-*
+*.exe
+*.o
+*.obj
+*.lst
